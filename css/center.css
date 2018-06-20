@@ -1,0 +1,12 @@
+.nav {
+    width: 300px;
+    height: 100%;
+}
+
+.nav p {
+    font-family: "Hiragino Sans GB";
+    color: #8B7D7B;
+    font-size: 24px;
+    text-align: center;
+}
+

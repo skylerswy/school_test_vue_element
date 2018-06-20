@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Hiragino Sans GB";
+    color: #8B7D7B;
+    font-size: 24px;
+    text-align: center;
+}
+
+.login {
+    width: 300px;
+    margin: 10% auto;
+}
+
+label {
+    color: #8C8C8C;
+}
+
+.el-input {
+    display: inline-block;
+    width: 200px;
+}
+
+hr {
+    border-top:3px  white;
+}
+
+.el-button {
+    margin-top: 20px;
+    margin-left: 100px;
+
+}
